@@ -6,14 +6,6 @@
  Language: Python 3 
 
 ```
-
-
-```
-Team Members:
-1. Shrikanth Singh Balaji Singh
-2. Manoj Huilgol
-3. Sachin Lokanath
-4. Rajath Sharma
 ```
 
 
